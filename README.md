@@ -35,6 +35,17 @@ et trouve que le résultat est ... acceptable.
 
 # La dynamique du système 
 
+Définissons le __système__ comme un ensemble d'__individus__.
+Chaque individu connaît un ensemble de __situations__ qu'il juge acceptables,
+et un ensemble de situations qu'il juge inacceptables.
+
+Le système change quand les ensembles de situation d'un individu (au moins)
+changent.
+
+Cela peut venir
+
+* de l'__extérieur__ : quand l'individu découvre une nouvelle situation,
+* ou de l'__intérieur__ : quand l'individu change d'avis sur une situation.
 
 # Convaincre
 
